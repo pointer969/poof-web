@@ -1,1 +1,3 @@
-# poof-web
+# PoOF - Conectanto lugares
+
+> WIP
