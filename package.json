@@ -11,7 +11,9 @@
     "test": "echo \"No test specified\" && exit 0",
     "postinstall": "npm install express"
   },
-  "dependencies": {},
+  "dependencies": {
+    "express": "^4.17.1"
+  },
   "devDependencies": {
     "@vue/eslint-config-airbnb": "^4.0.0",
     "babel-eslint": "^10.0.1",
