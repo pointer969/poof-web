@@ -12,7 +12,7 @@
     "postinstall": "npm install express"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "@vue/eslint-config-airbnb": "^4.0.0",
